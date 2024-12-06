@@ -18,11 +18,11 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-  # Developed by:RavivarmanVV
-  # Register no:24006127
-  surya=int(input())
-  vijay=int(input())
-  print(f"Swapped values are: {vijay} {surya}")
+    # Developed by:RavivarmanVV
+    # Register no:24006127
+    surya=int(input())
+    vijay=int(input())
+    print(f"Swapped values are: {vijay} {surya}")
 
 
 ## RESULT:
